@@ -63,7 +63,7 @@ class App extends Component {
   constructor(props){
     super(props)
     this.state = {
-      display: 'It works'
+      display: 'Tap The Buttons'
     }
   }
 
