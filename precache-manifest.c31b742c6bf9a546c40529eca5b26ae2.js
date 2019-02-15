@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "51aea579deafe1e4b444",
-    "url": "/DrumMachine/static/css/main.f70fd6ca.chunk.css"
+    "revision": "47107250f46260fbc02b",
+    "url": "/DrumMachine/static/css/main.35438938.chunk.css"
   },
   {
-    "revision": "51aea579deafe1e4b444",
-    "url": "/DrumMachine/static/js/main.51aea579.chunk.js"
+    "revision": "47107250f46260fbc02b",
+    "url": "/DrumMachine/static/js/main.47107250.chunk.js"
   },
   {
     "revision": "7adb60a394db34369967",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/DrumMachine/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "8d3f02fc802bb114f0d00e4e04aa7b50",
+    "revision": "4a576cf7e30c0d74da6c234fc83e5859",
     "url": "/DrumMachine/index.html"
   }
 ];
