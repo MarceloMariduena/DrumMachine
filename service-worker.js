@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MarceloMariduena/DrumMachine/precache-manifest.69f43c90690d864e353c48d83c2be1c4.js"
+  "/DrumMachine/precache-manifest.cf0678727c919ce7ab494eaafd22f3e8.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/MarceloMariduena/DrumMachine/index.html", {
+workbox.routing.registerNavigationRoute("/DrumMachine/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
