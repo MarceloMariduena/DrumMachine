@@ -85,6 +85,9 @@ class App extends Component {
               />
             ))}
           </div>
+        <div style="text-align: center;">
+            <p>This look-alike project was coded by <a style="text-decoration: none;" href="https://github.com/marcelomariduena" target="_blank">Marcelo Mariduena</a></p>
+        </div>
         </header>
       </div>
     );
